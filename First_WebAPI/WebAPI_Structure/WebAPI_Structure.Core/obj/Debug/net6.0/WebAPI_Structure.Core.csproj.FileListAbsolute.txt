@@ -1,0 +1,14 @@
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\bin\Debug\net6.0\WebAPI_Structure.Core.deps.json
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\bin\Debug\net6.0\WebAPI_Structure.Core.runtimeconfig.json
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\bin\Debug\net6.0\WebAPI_Structure.Core.dll
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\bin\Debug\net6.0\ref\WebAPI_Structure.Core.dll
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\bin\Debug\net6.0\WebAPI_Structure.Core.pdb
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.csproj.AssemblyReference.cache
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.AssemblyInfoInputs.cache
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.AssemblyInfo.cs
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.csproj.CoreCompileInputs.cache
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.dll
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\ref\WebAPI_Structure.Core.dll
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.pdb
+D:\bhavesh\First_WebAPI\WebAPI_Structure\WebAPI_Structure.Core\obj\Debug\net6.0\WebAPI_Structure.Core.genruntimeconfig.cache
